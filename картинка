@@ -1,0 +1,6 @@
+int pictureRows = 3;
+int pictureAll = 53;
+int fuulRows = pictureAll / pictureRows;
+int pictureSuperfluous = pictureAll % pictureRows ;
+Console.WriteLine(fuulRows);
+Console.WriteLine(pictureSuperfluous); 
