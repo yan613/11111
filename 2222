@@ -1,0 +1,10 @@
+int money;
+string name;
+int armor;
+int long;
+bool day;
+float age;
+int long;
+int coin;
+int gold;
+int damage;
